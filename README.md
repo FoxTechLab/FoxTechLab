@@ -54,9 +54,30 @@ A measurement monitoring, data logging and analysis application being developed 
 
 *Project under active development.*
 
-## 🧰 Technologies & Interests
 
-`Linux` `Python` `JavaScript` `Git` `Networking` `Electronics` `PCB Diagnostics` `Computer Hardware` `Retro Computing`
+## 🧰 Tech Stack & Tools
+
+### 💻 Operating Systems & Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+</p>
+
+### 🔧 Hardware & Engineering
+
+![Electronics](https://img.shields.io/badge/Electronics-1F6FEB?style=flat-square)
+![PCB Diagnostics](https://img.shields.io/badge/PCB_Diagnostics-1F6FEB?style=flat-square)
+![PC Repair](https://img.shields.io/badge/PC_Repair-1F6FEB?style=flat-square)
+![Networking](https://img.shields.io/badge/LAN_%2F_WiFi-1F6FEB?style=flat-square)
+![Retro Computing](https://img.shields.io/badge/Retro_Computing-1F6FEB?style=flat-square)
+
 
 ## 🎯 My Philosophy
 
