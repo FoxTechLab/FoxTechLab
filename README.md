@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./TUTAJ_NAZWA_PLIKU.png" alt="FoxTechLab Banner" width="100%">
+</p>
+
 # 🔧 FoxTechLab
 
 ### Electronics • Computer Hardware • Linux • Software Development • Retro Computing
