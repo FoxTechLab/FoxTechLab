@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./TUTAJ_NAZWA_PLIKU.png" alt="FoxTechLab Banner" width="100%">
+  <img src="./Cyberpunk-Elektronikwerkstatt mit FOXTECHLAB.png" alt="FoxTechLab Banner" width="100%">
 </p>
 
 # 🔧 FoxTechLab
